@@ -1,5 +1,6 @@
 # arcRingLoader
 不完整圆形进度条
+
     var optionsA = {
         width: 400,
         lineWidth: 6,
